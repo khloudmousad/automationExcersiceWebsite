@@ -1,4 +1,6 @@
 Project Summary: Automation Exercise Testing
+https://automationexercise.com
+
 This project automates key user flows on the Automation Exercise website to ensure a seamless and reliable user experience. Using Selenium WebDriver with TestNG and Java, the suite verifies critical functionalities such as user registration, login, and product management.
 
 Features Covered:
