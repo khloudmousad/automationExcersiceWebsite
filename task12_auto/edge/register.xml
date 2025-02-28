@@ -1,0 +1,15 @@
+<suite  name="automation regression testing">
+    <test name = "regression test cases">
+        <classes>
+            <class name="tests.testcase1AND5">
+                <methods>
+                    <include name="account_is_created_sucessfully">
+
+                    </include>
+                </methods>
+            </class>
+
+        </classes>
+    </test>
+</suite>
+
